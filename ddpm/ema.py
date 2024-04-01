@@ -1,4 +1,4 @@
-# 这是EMA模块，这是一处额外的修改
+# 这是EMA模块，这是一处
 class EMA():
     def __init__(self, decay):
         self.decay = decay
